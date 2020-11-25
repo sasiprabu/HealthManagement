@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: Vitalsigns-Module-API
+#  cloud:
+#    vault:
+#      scheme: http
+#      kv:
+#        enabled: true
+#      uri: http://localhost:8200
+#      token: s.QfHun8TfTjRfLpNdCKwXYOAt
+#    config:
+#      uri: http://localhost:8888
+
+#server:
+#  port: 8585
+
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/healthcareapi
+#    username: root
+#    password: rootpassword
+#    driver-class-name: com.mysql.jdbc.Driver
+#
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
